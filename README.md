@@ -28,7 +28,7 @@ Spring Boot
 
 ## 데모 페이지
 
-*  (http://taehun-project-board.com)
+* https://project-board-taehun-980469b12ad7.herokuapp.com/
 
 그 외
 
