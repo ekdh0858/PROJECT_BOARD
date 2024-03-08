@@ -34,6 +34,9 @@ Spring Boot
 
 * https://github.com/ekdh0858/PROJECT_BOARD/releases
 
+## 세부 과정에 대한 노션 
+
+* https://www.notion.so/Spring-acc8d25f096943d39496aabb637d0b4f?pvs=4
   
 그 외
 
