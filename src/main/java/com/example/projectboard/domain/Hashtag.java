@@ -27,7 +27,7 @@ public class Hashtag extends AuditingFields {
     @ManyToMany(mappedBy = "hashtags")
     private Set<Article> articles = new LinkedHashSet<>();
 
-    @Setter @Column(nullable = false) private String hashtagName; // 해시태그 이름
+    @Setter @Column(nullable = false,columnDefinition="varchar(255) COLLATE utf8mb4_bin") private String hashtagName; // 해시태그 이름
 
 
     protected Hashtag() {}
